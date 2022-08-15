@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navgraph"
+    app:startDestination="@id/user_list">
+
+    <fragment
+        android:id="@+id/user_list"
+        android:name="com.example.addbill.User_list"
+        android:label="fragment_user_list"
+        tools:layout="@layout/fragment_user_list" >
+        <action
+            android:id="@+id/action_user_list_to_inputUser"
+            app:destination="@id/inputUser" />
+
+        <action
+            android:id="@+id/action_user_list_to_billByUser"
+            app:destination="@id/billByUser" />
+        <action
+            android:id="@+id/action_user_list_to_username_Edit"
+            app:destination="@id/username_Edit" />
+
+
+    </fragment>
+    <fragment
+        android:id="@+id/inputUser"
+
+        android:name="com.example.addbill.inputUser"
+        android:label="fragment_input_user"
+        tools:layout="@layout/fragment_input_user" >
+        <action
+            android:id="@+id/action_inputUser_to_user_list"
+            app:destination="@id/user_list" />
+
+
+    </fragment>
+    <fragment
+        android:id="@+id/createBill"
+        android:name="com.example.addbill.createBill"
+        android:label="fragment_create_bill"
+        tools:layout="@layout/fragment_create_bill" >
+        <action
+            android:id="@+id/action_createBill_to_billByUser"
+            app:destination="@id/billByUser" />
+        <argument
+            android:name="idnum"
+            app:argType="string" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/EditBill"
+        android:name="com.example.addbill.EditBill"
+        android:label="fragment_edit_bill"
+        tools:layout="@layout/fragment_edit_bill" >
+        <action
+            android:id="@+id/action_editBill_to_billByUser"
+            app:destination="@id/billByUser" />
+        <argument
+            android:name="billlist"
+            app:argType="com.example.addbill.model.Info" />
+    </fragment>
+    <fragment
+        android:id="@+id/billByUser"
+        android:name="com.example.addbill.BillByUser"
+        android:label="fragment_bill_by_user"
+        tools:layout="@layout/fragment_bill_by_user" >
+        <action
+            android:id="@+id/action_billByUser_to_user_list"
+            app:destination="@id/user_list" />
+        <action
+            android:id="@+id/action_billByUser_to_createBill"
+            app:destination="@id/createBill" />
+        <action
+            android:id="@+id/action_billByUser_to_editBill"
+            app:destination="@id/EditBill" />
+        <argument
+            android:name="id"
+            app:argType="string" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/username_Edit"
+        android:name="com.example.addbill.Username_Edit"
+        android:label="fragment_username__edit"
+        tools:layout="@layout/fragment_username__edit" >
+        <action
+            android:id="@+id/action_username_Edit_to_user_list"
+            app:destination="@id/user_list" />
+        <argument
+            android:name="list"
+            app:argType="com.example.addbill.model.User_list" />
+    </fragment>
+
+
+</navigation>
