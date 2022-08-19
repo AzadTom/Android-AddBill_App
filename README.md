@@ -9,6 +9,6 @@ This repository is about Android App which I made using Kotlin&KotlinCorotuines 
 # ScreenShotImages - AndroidAppBill
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/MindorksOpenSource/ridesharing-uber-lyft-app/master/assets/banner-ridesharing-uber-lyft-app.jpg">
+    <img src="https://raw.githubusercontent.com/AzadTom/Android-AddBill_App/app/src/main/assets/Home.jpg">
 </p>
 <br>
