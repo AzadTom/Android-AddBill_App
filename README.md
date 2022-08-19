@@ -9,6 +9,6 @@ This repository is about Android App which I made using Kotlin&KotlinCorotuines 
 # ScreenShotImages - AndroidAppBill
 
 <p align="center">
-    <img width =100" height ="100" src="https://raw.githubusercontent.com/AzadTom/Android-AddBill_App/master/app/src/main/assets/Home.jpg">
+    <img  src="https://raw.githubusercontent.com/AzadTom/Android-AddBill_App/master/app/src/main/assets/Home.jpg">
 </p>
 <br>
