@@ -7,6 +7,8 @@ import com.example.addbill.model.User_list
 import com.example.addbill.model.InfoDao
 import javax.inject.Inject
 
+
+
 class UserRepositery @Inject constructor(private val dao: UserDao,private val infoDao: InfoDao) {
 
 
