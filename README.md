@@ -8,6 +8,12 @@ This repository is about Android App which I made using Kotlin&KotlinCorotuines 
 
 # ScreenShotImages - AndroidAppBill
 
+***You can Install and test latest Foodium app from below 👇***
+
+
+
+[![AddBill](https://img.shields.io/badge/Foodium🍲-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/AzadTom/Android-AddBill_App/raw/master/app/release/app-release.apk)
+
 <p align="center">
     <img  src="https://raw.githubusercontent.com/AzadTom/Android-AddBill_App/master/app/src/main/assets/Home.jpg">
 </p>
