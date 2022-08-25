@@ -1,14 +1,14 @@
 # AddBill Expenses Android App 
-This repository  is about  Android App Which level is basic level but this project i made those skill which i learned during the Android App development process
+This repository  is about  Android App project  Which level is basic level but this project i made those skill which i learned during the Android App development process
 if you want to make somethhing intersting you have to learn it at very basic level.
 
 
 
 
 
-# Screen Shot From the App
+# Screenshots From this project
 
-##You can Install and test latest  AddBill Android App from below 👇
+## You can Install and test latest  AddBill Android App from below 👇
 
 
 
