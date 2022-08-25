@@ -3,7 +3,7 @@ This repository  is about  Android App project  Which level is basic level but t
 if you want to make somethhing intersting you have to learn it at very basic level.
 
 <p align="center">
-    <img  src="https://raw.githubusercontent.com/AzadTom/Android-AddBill_App/master/app/src/main/assets/Home.jpg">
+    <img  width="100%" height="100%" src="https://raw.githubusercontent.com/AzadTom/Android-AddBill_App/master/app/src/main/assets/Home.jpg">
 </p>
 <br>
 
