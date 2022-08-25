@@ -3,7 +3,7 @@ This repository  is about  Android App project  Which level is basic level but t
 if you want to make somethhing intersting you have to learn it at very basic level.
 
 <p align="center">
-    <img  width="100%" height="100%" src="https://raw.githubusercontent.com/AzadTom/Android-AddBill_App/master/app/src/main/assets/Home.jpg">
+    <img   src="https://raw.githubusercontent.com/AzadTom/Android-AddBill_App/master/app/src/main/assets/Home.jpg">
 </p>
 <br>
 
@@ -16,6 +16,7 @@ If you want to  test or download the app you can ,Just go through from this page
 
 # What I used in this Project 
 * Kotlin & Kotlin Corourtines
+* Dialogs
 * Room Databse
 * Dependecy injection Dagger-Hilt
 * Navigation Components
@@ -30,13 +31,64 @@ If you want to  test or download the app you can ,Just go through from this page
 
 # Screenshots From this project
 
-## You can Install and test latest  AddBill Android App from below 👇
+* You can Install and test latest  AddBill Android App from below 👇
 
 
 
 [![AddBill](https://img.shields.io/badge/AddBill-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/AzadTom/Android-AddBill_App/raw/master/app/release/app-release.apk)
-
+<p align="center">
+    <img  src="https://github.com/AzadTom/Android-AddBill_App/raw/master/app/src/main/assets/logos.png">
+</p>
+<br>
 <p align="center">
     <img  src="https://raw.githubusercontent.com/AzadTom/Android-AddBill_App/master/app/src/main/assets/Home.jpg">
 </p>
 <br>
+<p align="center">
+    <img  src="https://github.com/AzadTom/Android-AddBill_App/raw/master/app/src/main/assets/Search.jpg">
+</p>
+<br>
+<p align="center">
+    <img  src="https://github.com/AzadTom/Android-AddBill_App/raw/master/app/src/main/assets/Search01.jpg">
+</p>
+<br>
+<p align="center">
+    <img  src="https://github.com/AzadTom/Android-AddBill_App/raw/master/app/src/main/assets/homeuserdelete.jpg">
+</p>
+<br>
+
+<p align="center">
+    <img  src="https://github.com/AzadTom/Android-AddBill_App/raw/master/app/src/main/assets/itemBill.jpg">
+</p>
+<br>
+
+<p align="center">
+    <img  src="https://github.com/AzadTom/Android-AddBill_App/raw/master/app/src/main/assets/itembilldelete.jpg">
+</p>
+<br>
+
+
+<p align="center">
+    <img  src="https://github.com/AzadTom/Android-AddBill_App/raw/master/app/src/main/assets/itembilllist.jpg">
+</p>
+<br>
+
+<p align="center">
+    <img  src="https://github.com/AzadTom/Android-AddBill_App/raw/master/app/src/main/assets/iteminfo.jpg">
+</p>
+<br>
+
+
+<p align="center">
+    <img  src="https://github.com/AzadTom/Android-AddBill_App/raw/master/app/src/main/assets/totalbill.jpg">
+</p>
+<br>
+<p align="center">
+    <img  src="https://github.com/AzadTom/Android-AddBill_App/raw/master/app/src/main/assets/userinfo.jpg">
+</p>
+<br>
+
+### Find this project useful ? :heart:
+
+* Support it by clicking the :star: button on the upper right of this page. :v:
+
